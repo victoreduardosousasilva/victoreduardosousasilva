@@ -2,8 +2,9 @@
 
 ### 🧪 QA Analyst | Testes Manuais & Automatizados em Formação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-silva-qa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoreduardosousasilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.e.sousa@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://victoreduardosousasilva.github.io/portfolio/)
 
 ---
 
@@ -18,19 +19,27 @@ Estou em transição/início de carreira focado na área de **Garantia de Qualid
 
 ---
 
+### 🌐 Meu Portfólio
+
+Confira meu portfólio profissional, onde apresento meus projetos, competências e experiências em QA:
+
+👉 **[Acessar meu Portfólio](https://victoreduardosousasilva.github.io/portfolio/)**
+
+---
+
 ### 📌 Projetos em Destaque
 
 Aqui estão alguns dos meus principais projetos de QA e automação de testes:
 
-#### 🏦 [Wizard Bank Test Project (Playwright + E2E)](https://github.com/vesilva99/qa_pw_wizard_bank_pom/tree/e2e_testing)
+#### 🏦 [Wizard Bank Test Project (Playwright + E2E)](https://github.com/victoreduardosousasilva/qa_pw_wizard_bank_pom/tree/e2e_testing)
 - **Descrição:** Projeto de automação de testes End-to-End (E2E) aplicado a um sistema bancário utilizando **Playwright**.
 - **Destaques:** Aplicação do padrão **Page Object Model (POM)** para reutilização de código e manutenção eficiente dos cenários de teste.
 
-#### 📬 [Postman - Conduit API Tests](https://github.com/vesilva99/Projeto-Postman---Conduit-Tests)
+#### 📬 [Postman - Conduit API Tests](https://github.com/victoreduardosousasilva/Projeto-Postman---Conduit-Tests)
 - **Descrição:** Testes automatizados de API REST utilizando o **Postman** na aplicação Conduit (RealWorld App).
 - **Destaques:** Criação de collections, asserções de status code, validação de payload/schema de resposta e variáveis de ambiente.
 
-#### 🎯 [Projeto Huntd](https://github.com/vesilva99/Projeto-Huntd)
+#### 🎯 [Projeto Huntd](https://github.com/victoreduardosousasilva/Projeto-Huntd)
 - **Descrição:** Suíte de testes e documentação de qualidade focada na validação de fluxos e funcionalidades da aplicação Huntd.
 - **Destaques:** Planejamento de testes, escrita de cenários e reportes detalhados de inconsistências.
 
@@ -58,12 +67,27 @@ Aqui estão alguns dos meus principais projetos de QA e automação de testes:
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vesilva99&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesilva99&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=victoreduardosousasilva&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+    alt="Estatísticas do GitHub do Victor Silva"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreduardosousasilva&layout=compact&theme=radical&hide_border=true"
+    alt="Linguagens mais utilizadas por Victor Silva"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/victoreduardosousasilva">
+    <img src="https://img.shields.io/badge/Visite%20meu%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visite meu GitHub"/>
+  </a>
 </p>
 
 ---
 
-📬 **Vamos conversar?** Sinta-se à vontade para me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/victor-silva-qa) ou por [E-mail](mailto:victor.e.sousa@gmail.com).
-- ⚡ Fun fact: ...
--->
+📬 **Vamos conversar?** Sinta-se à vontade para me enviar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/victoreduardosousasilva/) ou por [E-mail](mailto:victor.e.sousa@gmail.com).
+
+⚡ *Qualidade não é apenas encontrar bugs, mas garantir a melhor experiência para o usuário.*
+
