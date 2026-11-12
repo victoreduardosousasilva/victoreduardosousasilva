@@ -68,12 +68,12 @@ Aqui estão alguns dos meus principais projetos de QA e automação de testes:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=victoreduardosousasilva&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=victoreduardosousasilva&show_icons=true&theme=radical&hide_border=true"
     alt="Estatísticas do GitHub do Victor Silva"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreduardosousasilva&layout=compact&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victoreduardosousasilva&layout=compact&theme=radical&hide_border=true&langs_count=6"
     alt="Linguagens mais utilizadas por Victor Silva"
     height="180"
   />
