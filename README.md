@@ -1,82 +1,68 @@
-# Olá! Eu sou o Victor Silva 👋
+<div align="center">
 
-### 🧪 QA Analyst | Testes Manuais & Automatizados em Formação
+# Olá, eu sou o Victor Eduardo 👋
+### Estudante de Quality Assurance (QA) | ISTQB® CTFL | Automação E2E & API
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoreduardosousasilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.e.sousa@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00C7B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://victoreduardosousasilva.github.io/portfolio/)
+[![Portfólio Web](https://img.shields.io/badge/Portfólio_Web-2EAD33?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victoreduardosousasilva.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoreduardosousasilva)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoreduardosousasilva)
 
----
-
-### 🚀 Sobre Mim
-
-Estou em transição/início de carreira focado na área de **Garantia de Qualidade de Software (QA)**. Apaixonado por identificar falhas, garantir a melhor experiência do usuário e contribuir para a entrega de softwares robustos e eficientes.
-
-- 🔭 **Atualmente:** Em busca da minha primeira oportunidade como **Analista de QA Junior / Trainee**.
-- 🌱 **Evoluindo em:** Playwright, Cypress, Selenium, Postman API Testing e Automação Web (JavaScript & Python).
-- 📋 **Metodologias:** Ágil (Scrum/Kanban), Page Object Model (POM), Documentação de Casos de Teste, Reporte e Acompanhamento de Bugs.
-- 💬 **Fale comigo sobre:** QA, cenários de teste, automação e boas práticas de qualidade de software.
+</div>
 
 ---
 
-### 🌐 Meu Portfólio
+### 👨‍💻 Sobre Mim
 
-Confira meu portfólio profissional, onde apresento meus projetos, competências e experiências em QA:
+Graduado em **Análise e Desenvolvimento de Sistemas** e certificado **ISTQB® Certified Tester Foundation Level (CTFL)**, com **6 anos de experiência prévia em Suporte Técnico N1/N2** (investigação de causa raiz, análise de logs e documentação técnica). Atualmente dedico-me integralmente à formação prática em **Quality Assurance**, construindo projetos completos de testes manuais, de API e automatizados em busca da minha primeira oportunidade como **Analista de QA Júnior**.
 
-👉 **[Acessar meu Portfólio](https://victoreduardosousasilva.github.io/portfolio/)**
-
----
-
-### 📌 Projetos em Destaque
-
-Aqui estão alguns dos meus principais projetos de QA e automação de testes:
-
-#### 🏦 [Wizard Bank Test Project (Playwright + E2E)](https://github.com/victoreduardosousasilva/qa_pw_wizard_bank_pom/tree/e2e_testing)
-- **Descrição:** Projeto de automação de testes End-to-End (E2E) aplicado a um sistema bancário utilizando **Playwright**.
-- **Destaques:** Aplicação do padrão **Page Object Model (POM)** para reutilização de código e manutenção eficiente dos cenários de teste.
-
-#### 📬 [Postman - Conduit API Tests](https://github.com/victoreduardosousasilva/Projeto-Postman---Conduit-Tests)
-- **Descrição:** Testes automatizados de API REST utilizando o **Postman** na aplicação Conduit (RealWorld App).
-- **Destaques:** Criação de collections, asserções de status code, validação de payload/schema de resposta e variáveis de ambiente.
-
-#### 🎯 [Projeto Huntd](https://github.com/victoreduardosousasilva/Projeto-Huntd)
-- **Descrição:** Suíte de testes e documentação de qualidade focada na validação de fluxos e funcionalidades da aplicação Huntd.
-- **Destaques:** Planejamento de testes, escrita de cenários e reportes detalhados de inconsistências.
-
-#### 🐍 [Automação Web com Selenium & Python](https://github.com/vesilva99/Automacao-de-Testes-Web-com-Selenium-Webdriver-e-Python-Udemy)
-- **Descrição:** Repositório com scripts de automação de testes Web desenvolvidos durante a capacitação prática em Selenium WebDriver com Python.
-- **Destaques:** Manipulação de elementos web, waits explícitos/implícitos, e estruturação de rotinas de testes contínuos.
+🌐 **Acesse meu portfólio interativo:** [victoreduardosousasilva.github.io/portfolio](https://victoreduardosousasilva.github.io/portfolio/)  
+💼 **Conecte-se comigo no LinkedIn:** [linkedin.com/in/victoreduardosousasilva](https://www.linkedin.com/in/victoreduardosousasilva)
 
 ---
 
-### 🛠️ Competências & Ferramentas
+### 🛠️ Stack & Ferramentas de QA
 
-#### Tipos de Teste
-`Testes Manuais` `Testes de API` `Testes End-to-End (E2E)` `Testes Regressivos` `Testes Exploratórios`
-
-#### Ferramentas & Tecnologias
-- **Automação de Testes:** Playwright, Selenium WebDriver, Postman
-- **Linguagens de Programação:** JavaScript, Python
-- **Gestão de Testes & Bugs:** Jira, Trello, TestRail
-- **Banco de Dados:** DBeaver (SQL)
-- **Controle de Versão:** Git, GitHub
-- **Arquitetura & Boas Práticas:** Page Object Model (POM)
+* **Automação Web E2E:** Playwright, Selenium WebDriver, JavaScript, Python, Page Object Model (POM)
+* **Testes de API REST:** Postman, Newman, Validação de Contratos JSON & HTTP Status
+* **Gestão, Planejamento & BDD:** Jira, TestRail, Cucumber / Gherkin, Matriz de Riscos, Rastreabilidade
+* **Versionamento & Metodologias:** Git, GitHub, Scrum, ISTQB CTFL
 
 ---
 
-💻 Linguagens mais utilizadas
+### 🚀 Projetos em Destaque
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victoreduardosousasilva&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Linguagens mais utilizadas por Victor Silva"
-    height="180"
-  />
-</p>
+#### 1. 🧪 [QA Portfolio — Automation Exercise (E2E Web & REST API)](https://github.com/victoreduardosousasilva/qa-portfolio-automation-exercise)
+Projeto completo cobrindo o ciclo de vida de testes em um e-commerce sob metodologia ágil (Scrum):
+* **Planejamento & Riscos:** Plano de testes (`test-plan.md`), critérios de entrada/saída e mitigação técnica de falhas.
+* **BDD & Gestão de Defeitos:** 9 cenários em Gherkin (`CT-01` a `CT-09`), rastreabilidade no TestRail e bugs documentados no Jira com evidências.
+* **Testes de API:** Coleção Postman validando endpoints `GET` e `POST` (`/productsList`, `/searchProduct`, `/verifyLogin`) e regras de negócio no payload.
+* **Automação E2E:** Suíte Playwright em JavaScript com **Page Object Model (POM)**, bloqueio de anúncios na camada de rede (`page.route`) e massa dinâmica com *teardown*.
 
 ---
 
-📬 **Vamos conversar?** Sinta-se à vontade para me enviar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/victoreduardosousasilva/) ou por [E-mail](mailto:victor.e.sousa@gmail.com).
+#### 2. 🏦 [Wizard Bank — Automação Web E2E (Playwright & POM)](https://github.com/victoreduardosousasilva/qa_pw_wizard_bank_pom)
+* Automação de fluxos bancários críticos aplicando **Page Object Model (POM)**, isolamento de responsabilidades e asserções resilientes em JavaScript.
 
-⚡ *Qualidade não é apenas encontrar bugs, mas garantir a melhor experiência para o usuário.*
+---
 
+#### 3. 📰 [Conduit — Suíte Automatizada de Testes de API REST (Postman & Newman)](https://github.com/victoreduardosousasilva/Projeto-Postman---Conduit-Tests)
+* Testes automatizados de endpoints REST com variáveis dinâmicas, scripts *Pre-request* / *Post-response* e execução via CLI com **Newman**.
+
+---
+
+#### 4. 📱 [Huntd & Testes Mobile iOS — QA Manual, TestRail & Jira](https://github.com/victoreduardosousasilva/Projeto-Huntd)
+* Planejamento de testes, Matriz de Rastreabilidade de Requisitos (RTM), execução de suítes no TestRail e reporte de defeitos reproduzíveis em aplicações Web e iOS.
+
+---
+
+#### 5. 🐍 [Automação Web com Selenium WebDriver & Python](https://github.com/victoreduardosousasilva/Automacao-de-Testes-Web-com-Selenium-Webdriver-e-Python-Udemy)
+* Scripts de automação funcional de interface web utilizando Python, Selenium WebDriver e boas práticas de localização de elementos.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=victoreduardosousasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreduardosousasilva&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
